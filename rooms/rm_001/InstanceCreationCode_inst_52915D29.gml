@@ -1,0 +1,1 @@
+draw_color = #00cd00;

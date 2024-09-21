@@ -1,0 +1,1 @@
+global.collected_items = 0;

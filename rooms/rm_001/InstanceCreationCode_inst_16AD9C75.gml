@@ -1,0 +1,1 @@
+draw_color = c_yellow;

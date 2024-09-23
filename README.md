@@ -1,6 +1,6 @@
 # Manic Miner
 
-My interpretation of the classic ZX Spectrum game Manic Miner written in Game Maker Studio.
+My interpretation of the classic ZX Spectrum game Manic Miner written in Game Maker Studio. Well, not quite a full interpretation. It's just the first level while I get the mechanics together.
 
 ### Why?
 
